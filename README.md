@@ -1,4 +1,4 @@
-# TaskFlow
+# 📋 TaskFlow
 Taskflow is a Modern and Intuitive Task Assignment and Management Application in **modern C++23**.  
 Easily distribute tasks among team members, track progress in real-time, and boost productivity. 
 Simple, lightweight, and perfect for teams of any size.
