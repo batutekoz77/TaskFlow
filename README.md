@@ -9,6 +9,8 @@ Simple, lightweight, and perfect for teams of any size.
 ## 🛠 Features  
 - **Sign In**   
 - **Sign Up**
+- **Google Login**
+- **Github Login**
 - **E-Mail Verification**
 - **Forgot Password**
 - **Remember Me According to HWID Address**
@@ -32,6 +34,8 @@ Simple, lightweight, and perfect for teams of any size.
 ## 🎮 Roadmap  
 
 - [x] Sign-in menu
+- [ ] Google login menu
+- [ ] Github login menu
 - [x] Sign-up menu
 - [x] E-Mail verification
 - [x] Request credentials of account
