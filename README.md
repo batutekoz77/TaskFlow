@@ -20,7 +20,7 @@ Simple, lightweight, and perfect for teams of any size.
 
 - **Language:** C++23 (Visual Studio 2022 Community)  
 - **UI Library:** [SFML BASE](https://www.sfml-dev.org/)  
-- **Networking:** [SFML NETWORKING](http://enet.bespin.org/](https://www.sfml-dev.org/faq/networking/) (TCP)  
+- **Networking:** [SFML NETWORKING](https://www.sfml-dev.org/faq/networking/)  
 - **Database:** SQLite (via SQLite Modern C++ wrapper)  
 - **Compiler Standards:**  
   - C++23 (`/std:c++23preview`)  
