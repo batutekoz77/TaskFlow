@@ -20,9 +20,6 @@
 #include <condition_variable>
 #include <optional>
 
-#include <fmt/core.h>
-#include <fmt/color.h>
-
 #include <SFML/Network.hpp>
 
 #include "Widgets/Font.hpp"
@@ -881,4 +878,5 @@ int main() {
 
 
 	return EXIT_SUCCESS;
+
 }
