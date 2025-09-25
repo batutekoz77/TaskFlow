@@ -58,6 +58,24 @@ Simple, lightweight, and perfect for teams of any size.
  
 --- 
 
+## 📸 Screenshots
+
+### Signin Menu
+![Signin](docs/screenshots/signin.png)
+
+### Signup Menu
+![Signup](docs/screenshots/signup.png)
+
+### E-mail Verification
+![Verification](docs/screenshots/verification.png)
+![Mail Example](docs/screenshots/verification2.png)
+
+### Forgot Password
+![Forgot Password](docs/screenshots/forgot_password.png)
+![Mail Example](docs/screenshots/forgot_password2.png)
+
+---
+
 ## Getting Started
 
 ### 1. Install Git
