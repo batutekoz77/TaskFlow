@@ -50,7 +50,7 @@ Simple, lightweight, and perfect for teams of any size.
 - [x] Maximum 1 account with the same 'HWID' Address
 - [x] Database 'password' hasher
 - [ ] Networking 'rate/packet' limiters
-- [ ] Extra 'firewall' to TCP port
+- [x] Extra 'firewall' to TCP port
 - [x] Secured e-mail sender via Curl library
 
 - [x] Label Widget
